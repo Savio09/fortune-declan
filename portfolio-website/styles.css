@@ -283,6 +283,9 @@ header h3{
     nav, .cta {
         display: none;
     }
+    header {
+        width: 500px;
+    }
     .project.left,
     .project.right {
         padding: 50px;
