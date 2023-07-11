@@ -280,6 +280,13 @@ header h3{
     .grid {
         grid-template-columns: 1fr;
     }
+    nav, .cta {
+        display: none;
+    }
+    .project.left,
+    .project.right {
+        padding: 50px;
+    }
 }
 
 
