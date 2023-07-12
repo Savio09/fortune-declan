@@ -280,21 +280,61 @@ header h3{
     .grid {
         grid-template-columns: 1fr;
     }
-    nav, .cta {
+
+    nav, 
+    .cta {
         display: none;
     }
-    header {
-        width: 500px;
+
+    .hero-banner img {
+        height: 300px;
+        width: 300px;
     }
+
     .project.left,
     .project.right {
         padding: 50px;
     }
-    .hero-banner {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
+
+    .sparkle-1 {
+    left: 37%;
+    bottom: 23px;
+    width: 10px;
+    height: 10px;
+}
+
+.sparkle-2 {
+    top: 8px;
+    left: 49%;
+}
+
+.sparkle-3 {
+    background-color: brown;
+    top: 16%;
+    left: 21%;
+    width: 10px;
+    height: 10px;
+}
+
+.sparkle-4 {
+    left: 75%;
+    top: 74%;
+}
+
+.sparkle-5 {
+    background-color: #E3B15A;
+    left: 79%;
+    top: 26%;
+    width: 10px;
+    height: 10px;
+}
+
+.sparkle-6 {
+    left: 10%;
+    top: 58%;
+    background-color: black;
+}
+
 }
 
 
