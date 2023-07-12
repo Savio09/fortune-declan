@@ -286,6 +286,11 @@ header h3{
         display: none;
     }
 
+    .hero-banner {
+        padding-left: auto;
+        padding-right: auto;
+    }
+
     .hero-banner img {
         height: 300px;
         width: 300px;
