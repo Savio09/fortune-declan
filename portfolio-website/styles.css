@@ -287,8 +287,9 @@ header h3{
     }
 
     .hero-banner {
-        padding-left: auto;
-        padding-right: auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 
     .hero-banner img {
